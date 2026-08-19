@@ -27,29 +27,29 @@ O hackathon substitui o formato tradicional de entrega da disciplina de Desenvol
 - IBMEC – Instituição de ensino onde o hackathon será realizado presencialmente.
 - Hackathon – Evento de desenvolvimento intensivo e colaborativo, com duração limitada, focado na entrega de uma solução funcional.
 
-2-
+## 2. Posicionamento
 
 
 
 
-3-
+## 3. Descrição dos Stakeholders e Usuários
 
 
 
 
-4-
+## 4. Visão Geral do Produto
 
 
 
 
-5-
+## 5. Requisitos de Alto Nível
 
 
 
 
-6-
+## 6. Restrições e Premissas
 
 
 
 
-7-
+## 7. Riscos e Dependências 
