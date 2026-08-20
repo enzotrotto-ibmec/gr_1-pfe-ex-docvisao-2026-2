@@ -30,15 +30,24 @@ O hackathon é uma proposta fora do formato tradicional de entrega da disciplina
 ## 2. Posicionamento
 ### 2.1 Oportunidade de Mercado
 
-A realização do evento acadêmico proposto, conecta os alunos com a prática do desenvolvimento Front-End ao aplicar a teoria na solução de um problema real. Durante o hackathon, os estudantes do IBMEC desenvolvem hard e soft skills, fazem networking e começam a construir um portfólio relevante, sentindo na prática como é o mercado de tecnologia. Já para o cliente, o evento entrega um MVP funcional, moderno e sob medida, sem pagar o alto valor de um projeto contratado por fora.
+A realização do evento acadêmico proposto, conecta os alunos com a prática do desenvolvimento Front-End ao aplicar a teoria na solução de um problema real. Durante o Hackathon, os estudantes do IBMEC desenvolvem hard e soft skills, fazem networking e começam a construir um portfólio relevante, sentindo na prática como é o mercado de tecnologia. Já para o cliente, o evento entrega um MVP funcional, moderno e sob medida, sem pagar o alto valor de um projeto contratado por fora.
 
 ### 2.2 Problema a Ser Resolvido
 
-A ausência de um site funcional, focado na experiência do usuário, com excelente navegação e fácil de encontrar na web, diminui a captação de novos alunos, a exposição das modalidades oferecidas pelo centro de treinamento, a divulgação de horários e dias disponíveis, além de limitar o crescimento da marca na região de forma eficiente. Pensando na visão dos estudantes, podemos citar a falta de oportunidades para aplicar os conhecimentos da disciplina em projetos reais de mercado, lidando com prazos, solicitações de clientes, regras e resolução de conflitos que virão no decorrer de um trabalho.
+A ausência de um site funcional, focado na experiência do usuário, com excelente navegação e fácil de encontrar na web, impossibilita a captação de novos alunos, a exposição das modalidades oferecidas pelo centro de treinamento, a divulgação de horários e dias disponíveis, além de limitar o crescimento da empresa na região de forma eficiente. Pensando na visão dos estudantes, podemos citar a falta de oportunidades para aplicar os conhecimentos da disciplina em projetos reais de mercado, lidando com prazos, solicitações de clientes, regras e resolução de conflitos que virão no decorrer de um trabalho.
 
 ### 2.3 Proposta de Solução
 
-Por fim, a proposta de solução consiste em realizar um Hackathon no IBMEC com duração de 12 horas. O evento permitirá que os alunos da instituição apliquem na prática os aprendizados de desenvolvimento web (como HTML, CSS e JavaScript), além de técnicas consolidadas na matéria de Design Gráfico e User Experience (UX/UI). O objetivo é construir um MVP completo e eficiente para o cliente, contendo meios de contato, apresentação das modalidades, descrição dos planos, depoimentos, benefícios da prática dos esportes oferecidos, perguntas frequentes, formulário de pré-inscrição, redes sociais e localização da unidade.
+Por fim, a proposta de solução consiste em realizar o Hackaone no IBMEC com duração de 12 horas. O evento permitirá que os alunos da instituição apliquem na prática os aprendizados de desenvolvimento web (como HTML, CSS e JavaScript), além de técnicas consolidadas na matéria de Design Gráfico e User Experience (UX/UI). O objetivo é construir um MVP completo e eficiente para o cliente, contendo informações como: 
+- Meios de contato com a empresa
+- Apresentação das modalidades disponíveis 
+- Descrição dos planos e preços 
+- Depoimentos de alunos matriculados 
+- Benefícios da prática dos esportes oferecidos
+- Perguntas frequentes
+- Redes sociais
+- Formulário de pré-inscrição
+- Localização da unidade
 
 ## 3. Descrição dos Stakeholders e Usuários
 
