@@ -79,23 +79,24 @@ Os principais riscos associados à realização do Hackaone foram mapeados consi
 **Riscos de escopo:**
 
 - Requisitos do cliente mal definidos ou comunicados de forma insuficiente antes do hackathon, gerando retrabalho e perda de tempo durante o evento;
-- Expansão de escopo durante o desenvolvimento, comprometendo a entrega das funcionalidades prioritárias dentro do prazo.
+- Expansão do pedido durante o desenvolvimento, comprometendo a entrega das funcionalidades prioritárias dentro do prazo.
 
 **Riscos de equipe:**
 
 - Ausência ou atraso de integrantes no dia do evento, reduzindo a capacidade produtiva do grupo;
-- Distribuição desigual de tarefas, gerando gargalos em membros específicos e ociosidade em outros.
+- Distribuição desigual de tarefas, gerando sobrecarga em membros comprometidos e permitindo falta de empenho de outros, impactando a eficiência coletiva;
+- Falta de comunicação efetiva entre os integrantes, resultando em desalinhamentos e retrabalho.
 
 ### 7.2 Dependências
 
 A execução bem-sucedida do Hackaone depende de um conjunto de condições externas que precisam estar garantidas antes e durante o evento:
 
 - Disponibilidade e estabilidade da infraestrutura de rede do IBMEC, incluindo acesso a internet e recursos internos;
-- Acesso contínuo à internet para uso do Discord, GitHub e demais ferramentas de desenvolvimento;
+- Acesso contínuo à internet para uso de meios de comunicação, GitHub e demais ferramentas de desenvolvimento;
 - Definição e entrega prévia do briefing do cliente, com requisitos claros antes do início das 12 horas;
 - Presença e comprometimento de todos os integrantes das equipes no dia do evento;
 - Configuração antecipada dos ambientes de desenvolvimento individuais, para não consumir tempo durante o hackathon;
-- Disponibilidade dos mentores e do professor ao longo do evento para esclarecimento de dúvidas técnicas e de escopo.
+- Disponibilidade dos mentores e do professor ao longo do evento para esclarecimento de dúvidas técnicas do projeto.
 
 ### 7.3 Fatores Críticos para o Sucesso do Projeto
 
