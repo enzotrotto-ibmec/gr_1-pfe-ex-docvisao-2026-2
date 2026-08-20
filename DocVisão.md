@@ -30,6 +30,7 @@ O hackathon é uma proposta fora do formato tradicional de entrega da disciplina
 ## 2. Posicionamento
 ### 2.1 Oportunidade de Mercado
 
+A realização do evento acadêmico proposto, conecta os alunos com a prática do desenvolvimento Front-End ao aplicar a teoria na solução de um problema real. Durante o hackathon, os estudantes do IBMEC desenvolvem hard e soft skills, fazem networking e começam a construir um portfólio relevante, sentindo na prática como é o mercado de tecnologia. Já para o cliente, o evento entrega um MVP funcional, moderno e sob medida, sem pagar o alto valor de um projeto contratado por fora.
 
 ### 2.2 Problema a Ser Resolvido
 
