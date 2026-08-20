@@ -38,6 +38,8 @@ A ausência de um site funcional, focado na experiência do usuário, com excele
 
 ### 2.3 Proposta de Solução
 
+Por fim, a proposta de solução consiste em realizar um Hackathon no IBMEC com duração de 12 horas. O evento permitirá que os alunos da instituição apliquem na prática os aprendizados de desenvolvimento web (como HTML, CSS e JavaScript), além de técnicas consolidadas na matéria de Design Gráfico e User Experience (UX/UI). O objetivo é construir um MVP completo e eficiente para o cliente, contendo meios de contato, apresentação das modalidades, descrição dos planos, depoimentos, benefícios da prática dos esportes oferecidos, perguntas frequentes, formulário de pré-inscrição, redes sociais e localização da unidade.
+
 ## 3. Descrição dos Stakeholders e Usuários
 
 
