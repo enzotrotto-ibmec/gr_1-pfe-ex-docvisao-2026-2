@@ -44,11 +44,12 @@ A ausência de um site funcional, focado na experiência do usuário, com excele
 
 ### 2.3 Proposta de Solução
 
-Por fim, a proposta de solução consiste em realizar o Hackaone no IBMEC com duração de 12 horas. O evento permitirá que os alunos da instituição apliquem na prática os aprendizados de desenvolvimento web (como HTML, CSS e JavaScript), além de técnicas consolidadas na matéria de Design Gráfico e User Experience (UX/UI). O objetivo é construir um MVP completo e eficiente para o cliente, contendo informações como: 
+Por fim, a proposta de solução consiste em realizar o Hackaone no IBMEC com duração de 12 horas. O evento permitirá que os alunos da instituição apliquem na prática os aprendizados de desenvolvimento web (como HTML, CSS e JavaScript), além de técnicas consolidadas na matéria de Design Gráfico e User Experience (UX/UI). O objetivo é construir um MVP completo e eficiente para o cliente, contendo informações como:
+
 - Meios de contato com a empresa
-- Apresentação das modalidades disponíveis 
-- Descrição dos planos e preços 
-- Depoimentos de alunos matriculados 
+- Apresentação das modalidades disponíveis
+- Descrição dos planos e preços
+- Depoimentos de alunos matriculados
 - Benefícios da prática dos esportes oferecidos
 - Perguntas frequentes
 - Redes sociais
@@ -71,36 +72,36 @@ Os principais riscos associados à realização do Hackaone foram mapeados consi
 
 **Riscos técnicos:**
 
-- Instabilidade da infraestrutura de rede do IBMEC durante o evento pode comprometer o acesso a ferramentas externas, repositórios remotos e recursos essenciais ao desenvolvimento
-- Conflitos de versionamento no repositório compartilhado durante o trabalho simultâneo das equipes
-- Subestimação da complexidade técnica das funcionalidades, resultando em um MVP incompleto ao final do prazo
+- Instabilidade da infraestrutura de rede do IBMEC durante o evento pode comprometer o acesso a ferramentas externas, repositórios remotos e recursos essenciais ao desenvolvimento.
+- Conflitos de versionamento no repositório compartilhado durante o trabalho simultâneo das equipes;
+- Subestimação da complexidade técnica das funcionalidades, resultando em um MVP incompleto ao final do prazo.
 
 **Riscos de escopo:**
 
-- Requisitos do cliente mal definidos ou comunicados de forma insuficiente antes do hackathon, gerando retrabalho e perda de tempo durante o evento
-- Expansão de escopo durante o desenvolvimento, comprometendo a entrega das funcionalidades prioritárias dentro do prazo
+- Requisitos do cliente mal definidos ou comunicados de forma insuficiente antes do hackathon, gerando retrabalho e perda de tempo durante o evento;
+- Expansão de escopo durante o desenvolvimento, comprometendo a entrega das funcionalidades prioritárias dentro do prazo.
 
 **Riscos de equipe:**
 
-- Ausência ou atraso de integrantes no dia do evento, reduzindo a capacidade produtiva do grupo
-- Distribuição desigual de tarefas, gerando gargalos em membros específicos e ociosidade em outros
+- Ausência ou atraso de integrantes no dia do evento, reduzindo a capacidade produtiva do grupo;
+- Distribuição desigual de tarefas, gerando gargalos em membros específicos e ociosidade em outros.
 
 ### 7.2 Dependências
 
 A execução bem-sucedida do Hackaone depende de um conjunto de condições externas que precisam estar garantidas antes e durante o evento:
 
-- Disponibilidade e estabiliudade da infraestrutura de rede do IBMEC, incluindo acesso a internet e recursos internos
-- Acesso contínuo à internet para uso do Discord, GitHub e demais ferramentas de desenvolvimento
-- Definição e entrega prévia do briefing do cliente, com requisitos claros antes do início das 12 horas
-- Presença e comprometimento de todos os integrantes das equipes no dia do evento
-- Configuração antecipada dos ambientes de desenvolvimento individuais, para não consumir tempo durante o hackathon
-- Disponibilidade dos mentores e do professor ao longo do evento para esclarecimento de dúvidas técnicas e de escopo
+- Disponibilidade e estabilidade da infraestrutura de rede do IBMEC, incluindo acesso a internet e recursos internos;
+- Acesso contínuo à internet para uso do Discord, GitHub e demais ferramentas de desenvolvimento;
+- Definição e entrega prévia do briefing do cliente, com requisitos claros antes do início das 12 horas;
+- Presença e comprometimento de todos os integrantes das equipes no dia do evento;
+- Configuração antecipada dos ambientes de desenvolvimento individuais, para não consumir tempo durante o hackathon;
+- Disponibilidade dos mentores e do professor ao longo do evento para esclarecimento de dúvidas técnicas e de escopo.
 
 ### 7.3 Fatores Críticos para o Sucesso do Projeto
 
-- **Alinhamento prévio com o cliente:** garantir que o briefing esteja documentado e validado antes do início do evento, minimizando ambiguidades durante as 12 horas de desenvolvimento
-- **Planejamento do escopo do MVP:** definir com antecedência quais funcionalidades são essenciais à validação da proposta e quais ficam fora do escopo do evento
-- **Divisão de tarefas por competência:** distribuir as responsabilidades de acordo com o perfil técnico de cada membro, maximizando a eficiência coletiva da equipe
-- **Comunicação contínua via Discord:** manter sincronização frequente durante o desenvolvimento para evitar conflitos técnicos, retrabalho e desalinhamentos entre os integrantes
-- **Ambiente configurado previamente:** assegurar que ferramentas, dependências e acessos estejam funcionando antes do início do hackathon
-- **Capacidade de adaptação:** estar preparado para reduzir escopo ou revisar abordagens técnicas rapidamente caso imprevistos surjam dentro do prazo
+- **Alinhamento prévio com o cliente:** garantir que o briefing esteja documentado e validado antes do início do evento, minimizando ambiguidades durante as 12 horas de desenvolvimento;
+- **Planejamento do escopo do MVP:** definir com antecedência quais funcionalidades são essenciais à validação da proposta e quais ficam fora do escopo do evento;
+- **Divisão de tarefas por competência:** distribuir as responsabilidades de acordo com o perfil técnico de cada membro, maximizando a eficiência coletiva da equipe;
+- **Comunicação contínua via Discord:** manter sincronização frequente durante o desenvolvimento para evitar conflitos técnicos, retrabalho e desalinhamentos entre os integrantes;
+- **Ambiente configurado previamente:** assegurar que ferramentas, dependências e acessos estejam funcionando antes do início do hackathon;
+- **Capacidade de adaptação:** estar preparado para reduzir escopo ou revisar abordagens técnicas rapidamente caso imprevistos surjam dentro do prazo.
