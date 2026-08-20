@@ -40,17 +40,17 @@ A realização do evento acadêmico proposto, conecta os alunos com a prática d
 
 ### 2.2 Problema a Ser Resolvido
 
-A ausência de um site funcional, focado na experiência do usuário, com excelente navegação e fácil de encontrar na web, impossibilita a captação de novos alunos, a exposição das modalidades oferecidas pelo centro de treinamento, a divulgação de horários e dias disponíveis, além de limitar o crescimento da empresa na região de forma eficiente. Pensando na visão dos estudantes, podemos citar a falta de oportunidades para aplicar os conhecimentos da disciplina em projetos reais de mercado, lidando com prazos, solicitações de clientes, regras e resolução de conflitos que virão no decorrer de um trabalho.
+A ausência de um site funcional, focado na experiência do usuário, com excelente navegação e fácil de encontrar na web, impossibilita a captação de novos atletas, a exposição dos treinamentos especializados oferecidos, a divulgação de horários e dias disponíveis, além de limitar o crescimento da empresa na região de forma eficiente. Pensando na visão dos estudantes, podemos citar a falta de oportunidades para aplicar os conhecimentos da disciplina em projetos reais de mercado, lidando com prazos, solicitações de clientes, regras e resolução de conflitos que virão no decorrer de um trabalho.
 
 ### 2.3 Proposta de Solução
 
-Por fim, a proposta de solução consiste em realizar o Hackaone no IBMEC com duração de 12 horas. O evento permitirá que os alunos da instituição apliquem na prática os aprendizados de desenvolvimento web (como HTML, CSS e JavaScript), além de técnicas consolidadas na matéria de Design Gráfico e User Experience (UX/UI). O objetivo é construir um MVP completo e eficiente para o cliente, contendo informações como:
+A estratégia consiste em realizar o Hackaone no IBMEC com duração de 12 horas. O evento permitirá que os alunos da instituição apliquem na prática os aprendizados de desenvolvimento web (como HTML, CSS e JavaScript), além de técnicas consolidadas na matéria de Design Gráfico e User Experience (UX/UI). O objetivo é construir um MVP completo e eficiente para o cliente, contendo informações como:
 
 - Meios de contato com a empresa
-- Apresentação das modalidades disponíveis
+- Apresentação dos treinamentos especializados disponíveis
 - Descrição dos planos e preços
-- Depoimentos de alunos matriculados
-- Benefícios da prática dos esportes oferecidos
+- Depoimentos de atletas matriculados
+- Benefícios da prática e dos serviços ofertados
 - Perguntas frequentes
 - Redes sociais
 - Formulário de pré-inscrição
