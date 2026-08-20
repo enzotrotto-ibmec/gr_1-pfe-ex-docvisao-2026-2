@@ -4,7 +4,7 @@
 ### Professor Thiago Marcondes
 
 ### Participantes:
-- Alexia Schmidt
+- Alexia Schmid
 - Bernardo Gomes
 - Bernardo Nemirovsky
 - **Enzo Trotto**
