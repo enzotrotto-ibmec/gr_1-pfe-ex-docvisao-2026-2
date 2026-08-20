@@ -34,6 +34,7 @@ A realização do evento acadêmico proposto, conecta os alunos com a prática d
 
 ### 2.2 Problema a Ser Resolvido
 
+A ausência de um site funcional, focado na experiência do usuário, com excelente navegação e fácil de encontrar na web, diminui a captação de novos alunos, a exposição das modalidades oferecidas pelo centro de treinamento, a divulgação de horários e dias disponíveis, além de limitar o crescimento da marca na região de forma eficiente. Pensando na visão dos estudantes, podemos citar a falta de oportunidades para aplicar os conhecimentos da disciplina em projetos reais de mercado, lidando com prazos, solicitações de clientes, regras e resolução de conflitos que virão no decorrer de um trabalho.
 
 ### 2.3 Proposta de Solução
 
