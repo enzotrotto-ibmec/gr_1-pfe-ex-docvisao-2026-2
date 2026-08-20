@@ -28,9 +28,13 @@ O hackathon é uma proposta fora do formato tradicional de entrega da disciplina
 - Hackathon – Evento de desenvolvimento intensivo e colaborativo, com duração limitada, focado na entrega de uma solução funcional.
 
 ## 2. Posicionamento
+### 2.1 Oportunidade de Mercado
 
 
+### 2.2 Problema a Ser Resolvido
 
+
+### 2.3 Proposta de Solução
 
 ## 3. Descrição dos Stakeholders e Usuários
 
