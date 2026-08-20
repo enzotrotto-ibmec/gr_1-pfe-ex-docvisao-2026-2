@@ -16,7 +16,7 @@
 ## 1. Introdução
 ### 1.1 Propósito
 
-O presente documento descreve a visão do Hackaone, evento que transforma o projeto da disciplina de Projeto FrontEnd em um hackathon presencial de 12 horas, realizado nas dependências do IBMEC. O objetivo é reunir os alunos do segundo semestre da disciplina para desenvolver, em equipe e sob pressão de tempo, um MVP (Produto Mínimo Viável) funcional de um site, a ser apresentado a um cliente ao final do evento.
+O presente documento descreve o planejamento do Hackaone, evento que transforma o projeto da disciplina de Projeto FrontEnd em um hackathon presencial de 12 horas, realizado nas dependências do IBMEC. O objetivo é reunir os alunos do segundo semestre da disciplina para desenvolver, em equipe e sob pressão de tempo, um MVP (Produto Mínimo Viável) funcional de um site, a ser apresentado a um cliente ao final do evento.
 
 ### 1.2 Escopo
 
@@ -24,7 +24,7 @@ O hackathon é uma proposta fora do formato tradicional de entrega da disciplina
 
 ### 1.3 Definições, Acrônimos e Abreviações
 - MVP – Minimum Viable Product (Produto Mínimo Viável): versão inicial de um produto com o menor conjunto de funcionalidades necessário para validar a proposta junto ao cliente.
-- IBMEC – Instituição de ensino onde o hackathon será realizado presencialmente.
+- IBMEC – Instituto Brasileiro de Mercado de Capitais.
 - Hackathon – Evento de desenvolvimento intensivo e colaborativo, com duração limitada, focado na entrega de uma solução funcional.
 
 ## 2. Posicionamento
