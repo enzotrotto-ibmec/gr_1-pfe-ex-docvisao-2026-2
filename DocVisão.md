@@ -58,6 +58,35 @@ A estratégia consiste em realizar o Hackaone no IBMEC com duração de 12 horas
 
 ## 3. Descrição dos Stakeholders e Usuários
 
+### 3.1 Stakeholders
+
+Os principais stakeholders envolvidos no Hackaone são os alunos participantes, professores e mentores da disciplina, o cliente responsável pelo briefing do projeto e a organização do IBMEC. Cada um possui um papel específico no desenvolvimento e na realização do evento.
+
+- Alunos participantes: responsáveis pelo planejamento, desenvolvimento e apresentação do MVP. Espera-se que apliquem os conhecimentos adquiridos durante a disciplina, trabalhem de forma colaborativa e cumpram as etapas dentro do prazo de 12 horas.
+- Professores e mentores: responsáveis por orientar as equipes durante o desenvolvimento, esclarecer dúvidas, acompanhar o progresso dos projetos e auxiliar na resolução de problemas técnicos e de planejamento, sem realizar diretamente o desenvolvimento das soluções.
+- Cliente: responsável por apresentar as necessidades e expectativas relacionadas ao site, fornecendo o briefing que servirá como base para o desenvolvimento do MVP. Ao final do evento, avaliará se a solução desenvolvida atende aos principais objetivos propostos.
+- IBMEC: responsável por disponibilizar a infraestrutura necessária para a realização do Hackaone, incluindo o espaço físico e os recursos institucionais necessários para a execução da atividade.
+
+### 3.2 Usuários
+
+O principal usuário final considerado no desenvolvimento do MVP é o potencial cliente da empresa, especialmente pessoas interessadas em conhecer os treinamentos, planos e serviços oferecidos.
+
+Entre suas principais necessidades estão:
+
+- Encontrar rapidamente informações sobre os serviços disponíveis.
+- Consultar horários, planos e preços.
+- Conhecer os benefícios dos serviços oferecidos.
+- Encontrar os canais de contato e redes sociais da empresa.
+- Realizar uma pré-inscrição de forma simples e acessível.
+
+A expectativa dos usuários é encontrar um site moderno, intuitivo, responsivo e de fácil navegação, que apresente as informações de maneira clara e facilite o contato com a empresa.
+
+### 3.3 Necessidades e Expectativas
+
+De forma geral, os stakeholders esperam que o Hackaone resulte em um MVP funcional, visualmente adequado e alinhado às necessidades apresentadas pelo cliente. Os alunos esperam adquirir experiência prática e desenvolver habilidades técnicas e profissionais, enquanto os professores e mentores esperam acompanhar a aplicação dos conhecimentos da disciplina em uma situação próxima à realidade do mercado.
+
+Por sua vez, o cliente espera receber uma solução capaz de apresentar sua empresa de maneira profissional, melhorar sua presença digital e facilitar a captação de possíveis clientes. Dessa forma, o sucesso do projeto será considerado a partir da capacidade do MVP de atender aos requisitos essenciais definidos no briefing dentro do período estabelecido para o Hackaone.
+
 ## 4. Visão Geral do Produto
 
 ## 5. Requisitos de Alto Nível
