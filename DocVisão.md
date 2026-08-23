@@ -112,9 +112,9 @@ Para além da criação de um produto de qualidade, é importante também uma bo
 
 Uma boa apresentação deve conter um visual intuitivo e agradável, demonstra a eficácia e eficiência do Site na resolução do problema do cliente e também esclarece como sua solução se sustenta após o Hackathon e qual mercado o produto atinge.
 
-### 6. Restrições e Premissas
+## 6. Restrições e Premissas
 
-## 6.1 Restrições
+### 6.1 Restrições
 
 As restrições representam os limites e fatores organizacionais, técnicos e operacionais que impõem fronteiras ao desenvolvimento da solução durante o Hackaone:
 
@@ -128,7 +128,7 @@ As restrições representam os limites e fatores organizacionais, técnicos e op
 
 - **Tamanho e Composição da Equipe:** Os projetos devem ser desenvolvidos exclusivamente pelas equipes formadas pelos alunos matriculados na disciplina de Projeto FrontEnd, sem contratação externa ou ajuda de terceiros fora da mentoria oficial.
 
-## 6.2 Premissas
+### 6.2 Premissas
 
 As premissas correspondem a fatores assumidos como verdadeiros ou garantidos para que o planejamento do evento e as entregas aconteçam conforme o esperado:
 
