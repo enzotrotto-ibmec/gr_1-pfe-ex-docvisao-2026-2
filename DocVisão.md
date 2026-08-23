@@ -89,6 +89,28 @@ Por sua vez, o cliente espera receber uma solução capaz de apresentar sua empr
 
 ## 4. Visão Geral do Produto
 
+### 4.1 Principais funcionalidades
+
+O MVP desenvolvido reúne, em um único ambiente digital, as informações e os canais necessários para que um potencial cliente conheça a empresa e avance em direção à matrícula, resolvendo a fragmentação e a dificuldade de acesso que caracterizavam a presença digital anterior do negócio.
+
+A apresentação dos treinamentos especializados permite que o visitante compreenda, de forma clara e organizada, quais modalidades e serviços são oferecidos, sanando uma das principais dúvidas de quem ainda não conhece a empresa. De maneira complementar, a seção de planos e preços, associada às informações de horários e dias disponíveis, oferece transparência e agilidade na tomada de decisão, evitando que o usuário precise buscar esses dados por outros meios.
+
+Os depoimentos de atletas matriculados e a apresentação dos benefícios da prática contribuem para gerar confiança no potencial cliente, aproximando-o da realidade de quem já frequenta a empresa. A seção de perguntas frequentes (FAQ) atua de forma complementar, antecipando dúvidas comuns e reduzindo a necessidade de contato direto para esclarecimentos básicos.
+
+Os meios de contato com a empresa, integrados às redes sociais, garantem que o usuário encontre facilmente formas de se comunicar ou aprofundar seu relacionamento com a marca, enquanto a informação de localização da unidade facilita o planejamento de uma visita presencial. Por fim, o formulário de pré-inscrição representa a principal ação de conversão do site, permitindo que o interesse do usuário seja convertido em um primeiro contato objetivo com a empresa, de maneira simples e direta.
+
+Todas essas funcionalidades foram concebidas de forma integrada, com navegação intuitiva e responsividade, para que o usuário percorra o site sem obstáculos desnecessários, sendo conduzido naturalmente das informações institucionais até a ação de pré-inscrição.
+
+### 4.2 Diferenciais em relação a soluções existentes
+
+Em contraste com uma presença digital limitada, dispersa em canais isolados de comunicação, o produto centraliza em um único ambiente todas as informações relevantes sobre a empresa, seus treinamentos, planos e formas de contato. Essa centralização reduz o esforço exigido do usuário para conhecer os serviços oferecidos e tem potencial para diminuir a perda de interessados ao longo do processo de captação.
+
+O produto também se diferencia pelo foco na experiência do usuário, expresso em uma interface moderna, intuitiva e responsiva, capaz de se adaptar a diferentes dispositivos e facilitar o acesso às informações independentemente do contexto de navegação. A eliminação de etapas desnecessárias e a organização objetiva do conteúdo buscam tornar o percurso do usuário mais direto, da descoberta da empresa até a pré-inscrição.
+
+Outro diferencial relevante é a apresentação profissional da empresa e de seus serviços, o que pode contribuir para o fortalecimento de sua presença digital e para uma percepção de maior credibilidade por parte de potenciais atletas. Ainda que se trate de um MVP, a solução busca facilitar o processo de captação ao oferecer um canal de contato e pré-inscrição mais acessível do que os meios anteriormente disponíveis.
+
+Por fim, destaca-se que o produto foi desenvolvido sob medida para as necessidades específicas do cliente, dentro de um escopo funcional, simples e objetivo, priorizando estabilidade e confiabilidade para sua apresentação. Essa abordagem, embora concentrada no essencial, não esgota as possibilidades da solução: a arquitetura front-end estabelecida oferece uma base sobre a qual funcionalidades adicionais podem ser incorporadas em etapas futuras de evolução do produto.
+
 ## 5. Requisitos de Alto Nível
 
 ### 5.1 Funcionalidade  e Foco no Problema
