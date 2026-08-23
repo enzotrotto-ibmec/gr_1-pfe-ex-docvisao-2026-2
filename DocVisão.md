@@ -114,6 +114,7 @@ Uma boa apresentação deve conter um visual intuitivo e agradável, demonstra a
 
 ## 6. Restrições e Premissas
 
+
 ## 7. Riscos e Dependências
 
 ### 7.1 Riscos Identificados
