@@ -91,6 +91,27 @@ Por sua vez, o cliente espera receber uma solução capaz de apresentar sua empr
 
 ## 5. Requisitos de Alto Nível
 
+### 5.1 Funcionalidade  e Foco no Problema
+
+
+O MVP de um Hackathon deve ser criado de maneira simples e direta, focando na pedida do cliente, sem adicionar componentes desnecessários ao seu Site que gerem cliques extras ao usuário que o está operando.
+ 
+Botões que não levam a lugar algum demonstram desorganização e desfoque do real objetivo, o que gera uma impressão inicial negativa do Site e de seus desenvolvedores.
+
+### 5.2 Engenharia e Arquitetura
+
+
+É necessária estabilidade no pitch, pois é muito importante que o sistema não trave no momento de sua apresentação. 
+
+Para além disso, um código organizado e o uso de ferramentas modernas de maneira adequada enriquecem muito o trabalho apresentado, demonstrando qualidade e organização no seu produto final.
+
+### 5.3 Apresentação do Produto
+
+
+Para além da criação de um produto de qualidade, é importante também uma boa apresentação do mesmo, destacando suas principais qualidades, mostrando suas utilidades e em qual escala este pode ser operado.
+
+Uma boa apresentação deve conter um visual intuitivo e agradável, demonstra a eficácia e eficiência do Site na resolução do problema do cliente e também esclarece como sua solução se sustenta após o Hackathon e qual mercado o produto atingw.
+
 ## 6. Restrições e Premissas
 
 ## 7. Riscos e Dependências
