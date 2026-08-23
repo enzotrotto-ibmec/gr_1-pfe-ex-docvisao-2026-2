@@ -118,6 +118,29 @@ Uma boa apresentação deve conter um visual intuitivo e agradável, demonstra a
 
 As restrições representam os limites e fatores organizacionais, técnicos e operacionais que impõem fronteiras ao desenvolvimento da solução durante o Hackaone:
 
+- **Tempo de Execução:** O desenvolvimento deve ser realizado estritamente dentro da janela presencial de 12 horas de duração do evento, limitando a complexidade das funcionalidades a serem implementadas.
+
+- **Escopo Técnico (Front-End foco):** O foco principal do desenvolvimento deve ser estritamente Front-End (HTML, CSS e JavaScript), sendo vedado o desenvolvimento de arquiteturas de Back-End complexas ou bancos de dados avançados, salvo se indispensáveis para a validação básica do MVP.
+
+- **Infraestrutura Local:** A execução das atividades dependerá exclusivamente da rede Wi-Fi e da estrutura física/elétrica disponibilizada nas dependências do IBMEC.
+
+- **Ferramental Obrigatório:** O uso do GitHub é obrigatório para o armazenamento e versionamento do código-fonte, e o Discord deve ser utilizado como canal principal de comunicação e suporte entre os times e a mentoria.
+
+- **Tamanho e Composição da Equipe:** Os projetos devem ser desenvolvidos exclusivamente pelas equipes formadas pelos alunos matriculados na disciplina de Projeto FrontEnd, sem contratação externa ou ajuda de terceiros fora da mentoria oficial.
+
+## 6.2 Premissas
+
+As premissas correspondem a fatores assumidos como verdadeiros ou garantidos para que o planejamento do evento e as entregas aconteçam conforme o esperado:
+
+- **Disponibilidade do Briefing:** Assume-se que o cliente fornecerá o briefing completo com as informações da empresa (planos, serviços, redes sociais, depoimentos e dados de contato) antes do início da contagem das 12 horas.
+
+- **Conhecimento Prévio de Ferramentas:** Premissa de que todos os alunos já possuem conhecimentos básicos das linguagens da disciplina e possuem suas IDEs (editores de código) e Git devidamente instalados e configurados em seus notebooks antes do evento.
+
+- **Suporte Contínuo de Mentoria:** Pressupõe-se a presença e disponibilidade constante dos professores e mentores ao longo de todo o evento para validação de dúvidas e direcionamento técnico.
+
+- **Conectividade Estável:** Considera-se que a infraestrutura de internet do campus suportará o volume simultâneo de requisições e envios de código para repositórios remotos.
+
+
 ## 7. Riscos e Dependências
 
 ### 7.1 Riscos Identificados
