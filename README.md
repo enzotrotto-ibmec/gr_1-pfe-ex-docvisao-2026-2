@@ -29,4 +29,12 @@ Descreve a rubrica de pontuação usada pela banca julgadora, com os pesos defin
 Apresenta a jornada completa do evento, desde a abertura até a entrega final, passando pelos horários de mentoria e pelos checkpoints obrigatórios que os times devem cumprir. Fecha com os incentivos oferecidos, como premiação financeira, bolsas de incubação, mentoria contínua após o evento ou oportunidades de contratação para os participantes destaque.
 
 ---
+ ## Autores
+- 1 - Introdução: [Enzo Trotto](https://github.com/eftrotto)
+- 2 - Posicionamento: [João Pedro Ferreira](https://github.com/jpedroferreira07)
+- 3 - Descrição dos Stakeholders e Usuários: [Guilherme Macedo](https://github.com/Gmace33)
+- 4 - Visão Geral do Produto: [Gabriel Góis](https://github.com/goissb)
+- 5 - Requisitos de Alto Nível: [Bernardo Gomes](https://github.com/BernardoPG2007)
+- 6 - Restrições e Premissas: [Alexia Schmidt](https://github.com/AlexiaSH)
+- 7 - Riscos e Dependências: [Bernardo Nemirovsky](https://github.com/Bernardo-Nemirovsky-IBMEC)
 
