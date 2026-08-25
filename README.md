@@ -38,7 +38,7 @@ O [Documento de Visão](./docvisao.md) está organizado em sete seções:
 
 | Seção | Autor |
 | --- | --- |
-| 1. Introdução | [Enzo Trotto](https://github.com/eftrotto) |
+| 1. Introdução | [Enzo Trotto](https://github.com/enzotrotto-ibmec) |
 | 2. Posicionamento | [João Pedro Ferreira](https://github.com/jpedroferreira07) |
 | 3. Descrição dos Stakeholders e Usuários | [Guilherme Macedo](https://github.com/Gmace33) |
 | 4. Visão Geral do Produto | [Gabriel Góis](https://github.com/goissb) |
