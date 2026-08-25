@@ -1,40 +1,48 @@
-# Documento de Visão — Hackathon
+# Documento de Visão - Hackaone (Grupo 1)
 
-Este README apresenta a estrutura de um Documento de Visão para hackathons: um material de referência, simples e direto, que organiza as decisões essenciais antes de um evento ser lançado. Seu papel é alinhar organizadores, patrocinadores, mentores e participantes sobre o que o hackathon busca resolver, quem pode participar, o que será avaliado e como o evento se desenrola do início ao fim. Um bom documento de visão evita ambiguidades no dia do evento e serve como referência caso decisões precisem ser revisitadas depois.
+Este repositório contém o **Documento de Visão** produzido como atividade da disciplina de **Projeto FrontEnd** (IBMEC), sob orientação do professor **Thiago Marcondes**.
 
-### A seguir, os seis blocos que compõem o documento:
+Trata-se de um exercício acadêmico: o documento descreve o planejamento de um evento acadêmico hipotético, o "Hackaone", um hackathon presencial de 12 horas que transformaria o projeto da disciplina em um desafio de desenvolvimento de um MVP de site para um cliente fictício. O evento não chegou a ocorrer de fato; o objetivo da atividade era praticar a elaboração de um documento de visão completo, nos moldes apresentados em sala para planejar projetos de software antes de sua execução.
 
-## 1. Resumo Executivo e Propósito
+## O que é um Documento de Visão
 
-Esta seção explica por que o hackathon está acontecendo, seja para estimular inovação aberta, resolver dores internas específicas de uma organização ou atrair e identificar talentos. Também define as metas de impacto do evento, ou seja, os indicadores que serão usados para medir seu sucesso, como número de participantes, quantidade de MVPs funcionais entregues e quantas soluções têm potencial real de implementação.
+Um documento de visão é um material que registra, antes do início de um projeto, o propósito, o escopo, os envolvidos, os requisitos de alto nível, as restrições e os riscos de uma iniciativa. Ele serve para alinhar expectativas entre todas as partes envolvidas e como referência caso decisões precisem ser revisitadas depois.
 
-## 2. Desafios e Temáticas
+## Sobre o cenário descrito no documento
 
-Aqui fica registrada a declaração do problema: uma descrição precisa das dores que o evento pretende resolver, escrita de forma que qualquer participante entenda o desafio sem ambiguidade. A seção também estabelece o escopo e os limites do desafio, deixando claro o que é esperado como solução e o que fica explicitamente fora do escopo, evitando que times invistam tempo em caminhos que não serão considerados válidos.
+O documento imagina um hackathon de 12 horas no qual alunos da disciplina desenvolveriam, para um cliente fictício (uma empresa de treinamentos esportivos), o MVP de um site contendo informações como treinamentos oferecidos, planos e preços, depoimentos, benefícios, FAQ, contato, redes sociais, localização e um formulário de pré-inscrição. Todo esse cenário: o evento, o cliente e o produto, é ilustrativo, criado para servir de base à atividade.
 
-## 3. Público-Alvo e Equipes
+## Estrutura do documento
 
-Define os perfis desejados de participantes, como desenvolvedores, designers de UX/UI, profissionais de negócios e especialistas de domínio, e organiza como as equipes serão formadas. Isso inclui o tamanho mínimo e máximo de cada time (por exemplo, de 3 a 5 integrantes) e as regras aplicáveis a quem deseja participar individualmente ou sem um time formado previamente.
+O [Documento de Visão](./docvisao.md) está organizado em sete seções:
 
-## 4. Entregáveis e Regras do Desafio
+1. **Introdução**: propósito do Hackaone hipotético, escopo do que estaria dentro e fora do evento, e definições dos termos usados no documento.
+2. **Posicionamento**: a oportunidade por trás do evento, o problema do cliente fictício (ausência de um site funcional e de fácil navegação) e a proposta de solução imaginada.
+3. **Descrição dos Stakeholders e Usuários**: papéis de alunos, professores/mentores, cliente e IBMEC no cenário do evento, além das necessidades do público final do site.
+4. **Visão Geral do Produto**: principais funcionalidades previstas para o MVP e os diferenciais em relação à presença digital anterior da empresa fictícia.
+5. **Requisitos de Alto Nível**: critérios de foco no problema, estabilidade técnica para o pitch e qualidade da apresentação final.
+6. **Restrições e Premissas**: limites definidos para o evento hipotético (12 horas, foco Front-End, GitHub e Discord obrigatórios) e condições assumidas como garantidas (briefing do cliente, ambientes configurados, suporte de mentoria).
+7. **Riscos e Dependências**: riscos técnicos, de escopo e de equipe identificados, dependências externas e fatores críticos para o sucesso do evento imaginado.
 
-Especifica exatamente o que deve ser submetido ao final do hackathon: repositório de código em plataformas como o próprio GitHub, vídeo de demonstração com pitch de até três minutos, protótipo navegável e apresentação final. Também estabelece as diretrizes técnicas do desafio, como quais ferramentas são obrigatórias ou permitidas, o uso de bibliotecas open-source e as regras de propriedade intelectual sobre o que for produzido durante o evento.
+## Equipe
 
-## 5. Critérios de Avaliação
+- Alexia Schmid
+- Bernardo Gomes
+- Bernardo Nemirovsky
+- Enzo Trotto
+- Gabriel Góis
+- Guilherme Macedo
+- João Pedro Ferreira
 
-Descreve a rubrica de pontuação usada pela banca julgadora, com os pesos definidos para cada pilar avaliado. Por exemplo: inovação, viabilidade técnica e impacto de negócio em 25% cada, UX e design em 15% e o pitch em 10%. Também detalha o processo de julgamento, incluindo o formato do filtro inicial, o papel dos mentores ao longo do evento e a dinâmica da banca final.
+## Autores por seção do Documento de Visão
 
-## 6. Cronograma e Premiação
-
-Apresenta a jornada completa do evento, desde a abertura até a entrega final, passando pelos horários de mentoria e pelos checkpoints obrigatórios que os times devem cumprir. Fecha com os incentivos oferecidos, como premiação financeira, bolsas de incubação, mentoria contínua após o evento ou oportunidades de contratação para os participantes destaque.
-
----
- ## Autores
-- 1 - Introdução: [Enzo Trotto](https://github.com/eftrotto)
-- 2 - Posicionamento: [João Pedro Ferreira](https://github.com/jpedroferreira07)
-- 3 - Descrição dos Stakeholders e Usuários: [Guilherme Macedo](https://github.com/Gmace33)
-- 4 - Visão Geral do Produto: [Gabriel Góis](https://github.com/goissb)
-- 5 - Requisitos de Alto Nível: [Bernardo Gomes](https://github.com/BernardoPG2007)
-- 6 - Restrições e Premissas: [Alexia Schmidt](https://github.com/AlexiaSH)
-- 7 - Riscos e Dependências: [Bernardo Nemirovsky](https://github.com/Bernardo-Nemirovsky-IBMEC)
+| Seção | Autor |
+| --- | --- |
+| 1. Introdução | [Enzo Trotto](https://github.com/eftrotto) |
+| 2. Posicionamento | [João Pedro Ferreira](https://github.com/jpedroferreira07) |
+| 3. Descrição dos Stakeholders e Usuários | [Guilherme Macedo](https://github.com/Gmace33) |
+| 4. Visão Geral do Produto | [Gabriel Góis](https://github.com/goissb) |
+| 5. Requisitos de Alto Nível | [Bernardo Gomes](https://github.com/BernardoPG2007) |
+| 6. Restrições e Premissas | [Alexia Schmid](https://github.com/AlexiaSH) |
+| 7. Riscos e Dependências | [Bernardo Nemirovsky](https://github.com/Bernardo-Nemirovsky-IBMEC) |
 
