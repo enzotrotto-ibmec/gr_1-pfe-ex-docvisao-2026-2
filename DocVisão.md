@@ -36,25 +36,23 @@ O hackathon é uma proposta fora do formato tradicional de entrega da disciplina
 
 ### 2.1 Oportunidade de Mercado
 
-A realização do evento acadêmico proposto, conecta os alunos com a prática do desenvolvimento Front-End ao aplicar a teoria na solução de um problema real. Durante o Hackathon, os estudantes do IBMEC desenvolvem hard e soft skills, fazem networking e começam a construir um portfólio relevante, sentindo na prática como é o mercado de tecnologia. Já para o cliente, o evento entrega um MVP funcional, moderno e sob medida, sem pagar o alto valor de um projeto contratado por fora.
+A realização de um evento acadêmico de tecnologia exige um canal de comunicação centralizado e eficiente. A criação de uma página web dedicada ao Hackaone conecta diretamente os estudantes de tecnologia à organização da competição, tornando-se o principal ponto de referência para os interessados em participar. A plataforma atuará como o principal meio para engajar a comunidade acadêmica, facilitar a formação de equipes e proporcionar visibilidade estratégica às empresas parceiras e patrocinadoras que buscam identificar novos talentos na universidade.
 
 ### 2.2 Problema a Ser Resolvido
 
-A ausência de um site funcional, focado na experiência do usuário, com excelente navegação e fácil de encontrar na web, impossibilita a captação de novos atletas, a exposição dos treinamentos especializados oferecidos, a divulgação de horários e dias disponíveis, além de limitar o crescimento da empresa na região de forma eficiente. Pensando na visão dos estudantes, podemos citar a falta de oportunidades para aplicar os conhecimentos da disciplina em projetos reais de mercado, lidando com prazos, solicitações de clientes, regras e resolução de conflitos que virão no decorrer de um trabalho.
+A ausência de um site oficial, informativo e unificado, prejudica o acesso dos alunos participantes às informações do evento. A divulgação apenas por redes sociais ou presencialmente gera dúvidas sobre cronograma, desafios e regras, o que pode reduzir o número de inscrições. Do ponto de vista da equipe organizadora do Hackathon, a falta de uma plataforma integrada torna a gestão dos participantes, a montagem dos grupos e a comunicação de avisos importantes um processo manual, ineficiente e sujeito a ruídos de comunicação.
 
 ### 2.3 Proposta de Solução
 
-A estratégia consiste em realizar o Hackaone no IBMEC com duração de 12 horas. O evento permitirá que os alunos da instituição apliquem na prática os aprendizados de desenvolvimento web (como HTML, CSS e JavaScript), além de técnicas consolidadas na matéria de Design Gráfico e User Experience (UX/UI). O objetivo é construir um MVP completo e eficiente para o cliente, contendo informações como:
+A estratégia consiste em desenvolver uma página web responsiva, moderna e focada na experiência do usuário para ser o portal oficial do Hackaone. O site será o ponto central de informações do evento de 12 horas, garantindo que os estudantes tenham todo o suporte necessário antes e durante a competição. O objetivo é construir uma plataforma completa e eficaz, abrangendo informações e funcionalidades essenciais, tais como:
 
-- Meios de contato com a empresa
-- Apresentação dos treinamentos especializados disponíveis
-- Descrição dos planos e preços
-- Depoimentos de atletas matriculados
-- Benefícios da prática e dos serviços ofertados
-- Perguntas frequentes
-- Redes sociais
-- Formulário de pré-inscrição
-- Localização da unidade
+- **Apresentação e Tema:** Área de destaque detalhando o desafio principal proposto para a edição e as tecnologias exigidas.
+- **Inscrições e Gestão de Equipes:** Formulário integrado para cadastro de participantes, contendo as diretrizes de inscrição e o limite máximo de integrantes por equipe.
+- **Cronograma do Evento:** Linha do tempo detalhada das 12 horas de competição, incluindo horários de check-in, mentorias, entrega dos projetos (pitch) e encerramento.
+- **Regulamento e Recursos:** Acesso ao edital contendo os critérios de avaliação, além da disponibilização dos dados e ferramentas que poderão ser utilizados no desafio.
+- **Visibilidade de Parceiros:** Espaço estratégico dedicado à exposição das marcas das empresas patrocinadoras e da organização do evento.
+- **Premiação:** Detalhamento das recompensas para as equipes vencedoras.
+- **Suporte ao Participante:** Seção de Perguntas Frequentes (FAQ) e links diretos para os canais de contato e redes sociais oficiais do evento.
 
 ## 3. Descrição dos Stakeholders e Usuários
 
